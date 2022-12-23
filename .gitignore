@@ -1,4 +1,8 @@
 # Logs
+out/
+forge-cache/
+
+
 logs
 *.log
 npm-debug.log*
